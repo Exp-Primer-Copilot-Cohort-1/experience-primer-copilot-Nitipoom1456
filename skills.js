@@ -1,8 +1,5 @@
 function calculateNumbers(var1, var2)
 {
     var total = var1 + var2;
-    return total;
+    return console.log(total);
 }
-
-var total = calculateNumbers(4, 5);
-console.log(total);
